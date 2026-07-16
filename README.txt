@@ -67,3 +67,5 @@ Approach:
 3.Using a list-array loop we take a moving average to account for faulty sensor data.
 4.We then compute the slope of alt vs time graph to find velocity vs time using the gradient function of numpy module.
 5.We proceed to plot the graphs using matplotlib and FuncAnimation.
+
+this is a change made on here
